@@ -11,7 +11,8 @@ I'm full-stack developer passionate about Linux 🐧⭐ web development and crea
 🧑‍🤝‍🧑 I enjoy working remotely with multicultural teams and collaborating with others to achieve common goals
 </br>
 
-### Web Developer
+### Full-stack Developer 
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=enlacee&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
  <!-- <img src="https://raw.githubusercontent.com/INGCapaDev/INGCapaDev/output/snake.svg" alt="Snake animation" />
   
@@ -63,9 +64,10 @@ I'm full-stack developer passionate about Linux 🐧⭐ web development and crea
 
 
 ## Links:
-[![Blog](https://img.shields.io/badge/Blog-INGCapaDev-F89901?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)](https://blog.anibalcopitan.com)
-[![Website](https://img.shields.io/badge/Website-INGCapaDev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://anibalcopitan.com)
+
+[![Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=blogger&logoColor=white&labelColor=101010)](https://blog.anibalcopitan.com)
+[![Website](https://img.shields.io/badge/Website-black?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://anibalcopitan.com)
 
 ## Contact:
 
-[![Email](https://img.shields.io/badge/hello@anibalcopitan.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:hello@anibalcopitan.com)
+[![Email](https://img.shields.io/badge/Website-black?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](mailto:hello@anibalcopitan.com)
