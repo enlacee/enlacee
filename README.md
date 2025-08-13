@@ -57,8 +57,6 @@ I'm full-stack developer passionate about Linux 🐧⭐ web development and crea
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
 </div>
 
@@ -70,4 +68,4 @@ I'm full-stack developer passionate about Linux 🐧⭐ web development and crea
 
 ## Contact:
 
-[![Email](https://img.shields.io/badge/Website-black?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](mailto:hello@anibalcopitan.com)
+[![Email](https://img.shields.io/badge/hello@anibalcopitan.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:hello@anibalcopitan.com)
